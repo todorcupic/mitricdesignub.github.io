@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+<item>
+  <title>Mitori design</title>
+  <link></link>
+  <description>" My name is Mitori. I’m Freelance Graphic Designer."</description>
+</item>
+ <item>
+     <title>Mitori design</title>
+    <link></link>
+    <description>Mitori portfolio, all my works</description>
+  </item>
+<item>
+     <title>Mitori design</title>
+    <link></link>
+    <description>"We want to hear your opinion, send it to us and contact us"</description>
+  </item>
+<item>
+     <title>Mitori design</title>
+    <link></link>
+    <description>This page is about author of this site</description>
+  </item>
+</channel>
+</rss>
